@@ -19,4 +19,4 @@ If you are developing a production application, we recommend using TypeScript wi
 ## About
 A note taking app created using React.js using Vite bundler.
 
-🔗 notly-react.vercel.app
+🔗 [notly-react.vercel.app](https://notly-react.vercel.app/)
